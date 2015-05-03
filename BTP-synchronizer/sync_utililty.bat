@@ -17,9 +17,5 @@ IF %id%==1 (
 	start /d "%CD%\gui_workables\KinectStreams\KinectStreams\bin\Debug" KinectStreams.exe
 ) ELSE IF %id%==5 (
 	"C:\Program Files\MATLAB\R2012a\bin\matlab.exe" -nodisplay -nosplash -nodesktop -r run('%CD%\sync_to_mat.m')
-) ELSE IF %id% LSS 1 (
-	IF %id% GTR 5 (
-		echo "Wrong choice! Please try again."
-	)
 )
 pause
