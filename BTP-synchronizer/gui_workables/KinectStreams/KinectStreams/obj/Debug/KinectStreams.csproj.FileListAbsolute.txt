@@ -1,0 +1,51 @@
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\Kinect Lab\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+H:\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+H:\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+H:\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+H:\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+H:\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+H:\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+H:\KinectStreams\KinectStreams\obj\Debug\App.baml
+H:\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+H:\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+H:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+G:\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+G:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+G:\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+E:\btp\gui workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+E:\btp\gui workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+E:\btp\gui workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+E:\btp\gui workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+E:\btp\gui workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\App.baml
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache

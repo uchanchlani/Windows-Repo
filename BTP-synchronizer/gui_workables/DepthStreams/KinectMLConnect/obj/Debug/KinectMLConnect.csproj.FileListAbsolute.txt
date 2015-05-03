@@ -1,0 +1,48 @@
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\csmatio.dll
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\zlib.net.dll
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\csmatio.xml
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csprojResolveAssemblyReference.cache
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\Mikkel\Desktop\Kinect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\mscorlib.dll
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\normidna.nlp
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\normnfc.nlp
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\normnfd.nlp
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\normnfkc.nlp
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\bin\Debug\normnfkd.nlp
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csprojResolveAssemblyReference.cache
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\Mikkel\Desktop\KinectMLConnect\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csproj.GenerateResource.Cache
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csprojResolveAssemblyReference.cache
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\Kinect Lab\Desktop\utkarsh\4apr2200commit\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.csproj.GenerateResource.Cache
+E:\btp\chandak pd\KinectMLConnect\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+E:\btp\chandak pd\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+E:\btp\chandak pd\KinectMLConnect\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+E:\btp\gui workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
