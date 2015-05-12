@@ -49,3 +49,51 @@ E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupC
 E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
 E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
 E:\btp\gui workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache

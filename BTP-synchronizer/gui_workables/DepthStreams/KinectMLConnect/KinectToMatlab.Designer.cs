@@ -43,6 +43,7 @@
             this.minText = new System.Windows.Forms.TextBox();
             this.maxText = new System.Windows.Forms.TextBox();
             this.submitButton = new System.Windows.Forms.Button();
+            this.browseButton = new System.Windows.Forms.Button();
             this.Options.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -193,11 +194,22 @@
             this.submitButton.UseVisualStyleBackColor = true;
             this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
             // 
+            // browseButton
+            // 
+            this.browseButton.Location = new System.Drawing.Point(495, 110);
+            this.browseButton.Name = "browseButton";
+            this.browseButton.Size = new System.Drawing.Size(75, 23);
+            this.browseButton.TabIndex = 12;
+            this.browseButton.Text = "Browse";
+            this.browseButton.UseVisualStyleBackColor = true;
+            this.browseButton.Click += new System.EventHandler(this.browseButton_Click);
+            // 
             // KinectToMatlab
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(595, 337);
+            this.Controls.Add(this.browseButton);
             this.Controls.Add(this.submitButton);
             this.Controls.Add(this.maxText);
             this.Controls.Add(this.minText);
@@ -238,6 +250,7 @@
         private System.Windows.Forms.TextBox minText;
         private System.Windows.Forms.TextBox maxText;
         private System.Windows.Forms.Button submitButton;
+        private System.Windows.Forms.Button browseButton;
     }
 }
 

@@ -38,10 +38,12 @@ namespace KinectMLConnect
         /// </summary>
         private FrameDescription depthFrameDescription = null;
 
-        /// <summary>
+        public ushort[, ] depthFrameDataBuffer;
         /// Intermediate storage for frame data
         /// </summary>
         public ushort[] depthFrameData = null;
+
+
 
         /// <summary>
         /// Reader for IR frames
@@ -134,6 +136,9 @@ namespace KinectMLConnect
 
             // allocate space to put the pixels being received and converted
             this.depthFrameData = new ushort[this.depthFrameDescription.Width * this.depthFrameDescription.Height];
+
+            // allocate space for the buffer
+            this.depthFrameDataBuffer = new ushort[150, this.depthFrameDescription.Width * this.depthFrameDescription.Height];
 
             // allocate space for IR frame
             this.IRFrameData = new ushort[this.IRFrameDescription.Width * this.IRFrameDescription.Height];
@@ -314,11 +319,11 @@ namespace KinectMLConnect
                             {
                             
                                 {
-                                    if ((checkbox_ == 1 && frameCount>=min_) || (checkbox_ == 2 && frameCount>=max_))
+                                    if ((checkbox_ == 2 && frameCount>=min_) || (checkbox_ == 1 && frameCount>=max_))
                                         Application.Exit();
                                     //Write timings to txt File
                                     //Change 1221 to total number of frames - 1 and output path of file 
-                                     if (checkbox_ == 2 && this.frameCount == min_)
+                                    if (checkbox_ == 2 && this.frameCount == min_)
                                     {
                                         this.timing[this.frameCount++] = (ushort)depthFrame.RelativeTime.Milliseconds;
                                         string s = "";
@@ -329,10 +334,28 @@ namespace KinectMLConnect
                                     depthFrame.CopyFrameDataToArray(depthFrameData);
                                     //this.frameCount++;
                                     this.timing[this.frameCount++] = (ushort)depthFrame.RelativeTime.Milliseconds;
-                                    filePath = path_ + @"\Depthframe" + frameCount.ToString() + ".MAT";
-                                    if(frameCount>=min_ && frameCount<max_)
-                                        this.matfw = new MATWriter( "depthmat",filePath, depthFrameData, depthFrame.FrameDescription.Height, depthFrame.FrameDescription.Width);
-                                    //syspath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/Kinect to MatLab"
+                                    int length_ = depthFrameData.Length;
+//                                    for (int i = 0; i < depthFrameData.Length; i++)
+//                                        depthFrameDataBuffer[0, i] = depthFrameData[i];
+                                    if (checkbox_ == 1 && frameCount >= min_ && frameCount < max_)
+                                    {
+                                        Console.WriteLine("here " + frameCount.ToString());                                        
+                                        for (int i = 0; i < length_; i++)
+                                            depthFrameDataBuffer[idx, i] = depthFrameData[i];
+                                        idx++;
+                                    }
+                                    else if (checkbox_ == 1 && frameCount == max_)
+                                    {
+                                        Console.WriteLine("here " + frameCount.ToString());
+                                        for (int j = 0; j < idx; j++)
+                                        {
+                                            for (int i = 0; i < length_; i++)
+                                                depthFrameData[i] = depthFrameDataBuffer[j, i];
+                                            filePath = path_ + @"\Depthframe" + (j+min_).ToString() + ".MAT";
+                                            this.matfw = new MATWriter("depthmat", filePath, depthFrameData, depthFrame.FrameDescription.Height, depthFrame.FrameDescription.Width);
+                                        }
+                                        Application.Exit();
+                                    }
                                 }
                             }
                         }
@@ -556,7 +579,7 @@ namespace KinectMLConnect
             StartButton.Enabled = false;
             DepthRadio.Checked = true;
             Options.Visible = false;
-            submitButton.Visible = false;
+            browseButton.Visible = submitButton.Visible = false;
             label1.Visible = label2.Visible = label3.Visible = false;
             pathText.Visible = minText.Visible = maxText.Visible = false;
             depthImage.Checked = depthFrame.Checked = false;
@@ -653,7 +676,7 @@ namespace KinectMLConnect
             depthFrame.Visible = depthImage.Visible = false;
             label1.Visible = label2.Visible = label3.Visible = true;
             pathText.Visible = minText.Visible = maxText.Visible = true;
-            submitButton.Visible = true;
+            browseButton.Visible = submitButton.Visible = true;
             checkbox_ = 1;
         }
 
@@ -664,7 +687,7 @@ namespace KinectMLConnect
             label2.Text = "No of Frames";
             label1.Visible = label2.Visible = true;
             pathText.Visible = minText.Visible = true;
-            submitButton.Visible = true;
+            browseButton.Visible = submitButton.Visible = true;
             checkbox_ = 2;
         }
 
@@ -691,7 +714,15 @@ namespace KinectMLConnect
             StartButton.Enabled = true;
             label1.Visible = label2.Visible = label3.Visible = false;
             pathText.Visible = minText.Visible = maxText.Visible = false;
-            submitButton.Visible = false;
+            browseButton.Visible = submitButton.Visible = false;
+        }
+
+        private void browseButton_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog folderbrowser = new System.Windows.Forms.FolderBrowserDialog();
+
+            folderbrowser.ShowDialog();
+            pathText.Text = folderbrowser.SelectedPath;
         }
 
     }

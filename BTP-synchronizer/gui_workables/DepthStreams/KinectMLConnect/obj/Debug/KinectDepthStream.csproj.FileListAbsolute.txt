@@ -8,3 +8,47 @@ E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.Prop
 E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csproj.GenerateResource.Cache
 E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
 E:\btp\gui workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe.config
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\KinectMLConnect.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csprojResolveAssemblyReference.cache
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.KinectToMatlab.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectMLConnect.Properties.Resources.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\DepthStreams\KinectMLConnect\obj\Debug\KinectDepthStream.csproj.GenerateResource.Cache

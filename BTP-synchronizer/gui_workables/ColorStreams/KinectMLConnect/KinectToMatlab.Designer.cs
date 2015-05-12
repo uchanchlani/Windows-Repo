@@ -43,6 +43,7 @@
             this.minText = new System.Windows.Forms.TextBox();
             this.maxText = new System.Windows.Forms.TextBox();
             this.submitButton = new System.Windows.Forms.Button();
+            this.browseButton = new System.Windows.Forms.Button();
             this.Options.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -116,10 +117,10 @@
             this.depthImage.Checked = true;
             this.depthImage.Location = new System.Drawing.Point(215, 102);
             this.depthImage.Name = "depthImage";
-            this.depthImage.Size = new System.Drawing.Size(78, 17);
+            this.depthImage.Size = new System.Drawing.Size(73, 17);
             this.depthImage.TabIndex = 4;
             this.depthImage.TabStop = true;
-            this.depthImage.Text = "Depth Map";
+            this.depthImage.Text = "Color Map";
             this.depthImage.UseVisualStyleBackColor = true;
             this.depthImage.CheckedChanged += new System.EventHandler(this.depthImage_CheckedChanged);
             // 
@@ -166,8 +167,9 @@
             // 
             this.pathText.Location = new System.Drawing.Point(129, 125);
             this.pathText.Name = "pathText";
-            this.pathText.Size = new System.Drawing.Size(331, 20);
+            this.pathText.Size = new System.Drawing.Size(240, 20);
             this.pathText.TabIndex = 8;
+            this.pathText.TextChanged += new System.EventHandler(this.pathText_TextChanged);
             // 
             // minText
             // 
@@ -193,11 +195,22 @@
             this.submitButton.UseVisualStyleBackColor = true;
             this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
             // 
+            // browseButton
+            // 
+            this.browseButton.Location = new System.Drawing.Point(385, 125);
+            this.browseButton.Name = "browseButton";
+            this.browseButton.Size = new System.Drawing.Size(75, 23);
+            this.browseButton.TabIndex = 12;
+            this.browseButton.Text = "Browse";
+            this.browseButton.UseVisualStyleBackColor = true;
+            this.browseButton.Click += new System.EventHandler(this.browseButton_Click);
+            // 
             // KinectToMatlab
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(489, 339);
+            this.Controls.Add(this.browseButton);
             this.Controls.Add(this.submitButton);
             this.Controls.Add(this.maxText);
             this.Controls.Add(this.label1);
@@ -238,6 +251,7 @@
         private System.Windows.Forms.TextBox minText;
         private System.Windows.Forms.TextBox maxText;
         private System.Windows.Forms.Button submitButton;
+        private System.Windows.Forms.Button browseButton;
     }
 }
 

@@ -27,3 +27,36 @@ E:\btp\gui workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF_MarkupCom
 E:\btp\gui workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.g.resources
 E:\btp\gui workables\BodyIndexBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyIndexBasics.Properties.Resources.resources
 E:\btp\gui workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe.config
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF_MarkupCompile.cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.g.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyIndexBasics.Properties.Resources.resources
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.exe
+C:\Users\admin\Downloads\Utkarsh Code\Windows-Repo-master\BTP-synchronizer\file explorer testing\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe.config
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.exe
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\BodyIndexBasics-WPF.pdb
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF_MarkupCompile.cache
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.g.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyIndexBasics.Properties.Resources.resources
+C:\Users\Utkarsh\Documents\GitHub\Windows-Repo\BTP-synchronizer\gui_workables\BodyIndexBasics-WPF\obj\Debug\BodyIndexBasics-WPF.csproj.GenerateResource.Cache

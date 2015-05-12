@@ -25,6 +25,7 @@ namespace KinectStreams
 
         Mode _mode = Mode.Color;
         string path_ = "";
+        bool written_ = false;
 
         KinectSensor _sensor;
         MultiSourceFrameReader _reader;
@@ -74,6 +75,7 @@ namespace KinectStreams
         }
         void Body_Reader_FrameArrived(object sender, BodyFrameArrivedEventArgs e)
         {
+            written_ = false;
             using (var frame = e.FrameReference.AcquireFrame())
             {
                 if (frame != null)
@@ -98,7 +100,8 @@ namespace KinectStreams
 
                                 Console.WriteLine("I m here " + idx.ToString());
                                 System.IO.File.WriteAllText(path_ + @"/Skeletonframe" + idx.ToString() + ".txt", s);
-                                idx++;
+                                written_ = true;
+//                                idx++;
                                 // Draw skeleton.
                                 //if (_displayBody)
                                 //{
@@ -110,6 +113,9 @@ namespace KinectStreams
                 }
             }
 
+            if(written_ == false)
+                System.IO.File.WriteAllText(path_ + @"/Skeletonframe" + idx.ToString() + ".txt", "");
+            idx++;
         }
 
 
@@ -212,11 +218,38 @@ namespace KinectStreams
             Button.Visibility = System.Windows.Visibility.Hidden;
             Label.Visibility = System.Windows.Visibility.Hidden;
             TextInput.Visibility = System.Windows.Visibility.Hidden;
+            BrowseButton.Visibility = System.Windows.Visibility.Hidden;
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
 
+        }
+
+        private void BrowseButton_Click(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog folderbrowser = new System.Windows.Forms.FolderBrowserDialog();
+
+            folderbrowser.ShowDialog();
+            TextInput.Text = folderbrowser.SelectedPath;
+            /*Microsoft.Win32.OpenFileDialog openFileDialog1 = new Microsoft.Win32.OpenFileDialog();
+            openFileDialog1.InitialDirectory = @"C:\";
+            openFileDialog1.Title = "Browse Text Files";
+
+            openFileDialog1.CheckFileExists = true;
+            openFileDialog1.CheckPathExists = true;
+
+            openFileDialog1.DefaultExt = "";
+            openFileDialog1.Filter = "All folders (*)|*";
+            openFileDialog1.FilterIndex = 2;
+            openFileDialog1.RestoreDirectory = true;
+
+            openFileDialog1.ReadOnlyChecked = true;
+            openFileDialog1.ShowReadOnly = true;
+
+            openFileDialog1.ShowDialog();
+                TextInput.Text = openFileDialog1.FileName;
+            */
         }
     }
 

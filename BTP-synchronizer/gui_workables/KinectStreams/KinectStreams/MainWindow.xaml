@@ -1,17 +1,18 @@
 ﻿<Window x:Class="KinectStreams.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Kinect | Skeleton Extractor" Height="280" Width="500" Loaded="Window_Loaded" Closed="Window_Closed">
+        Title="Kinect | Skeleton Extractor" Height="280" Width="700" Loaded="Window_Loaded" Closed="Window_Closed">
     <Grid>
         <Image Name="camera" />
         <Canvas Name="canvas" Margin="0,0,422,206" >
-            <TextBox Name="TextInput" Height="24" Canvas.Left="184" TextWrapping="Wrap" Text="" Canvas.Top="90" Width="195" TextChanged="TextBox_TextChanged"/>
-            <Label Name="Label" Content="Directory Path" Canvas.Left="40" Canvas.Top="90" Width="117"/>
-            <Button Name="Button" Content="Submit" Canvas.Left="341" Canvas.Top="175" Width="111" Height="29" Click="Button_Click"/>
+            <TextBox Name="TextInput" Height="54" Canvas.Left="135" TextWrapping="Wrap" Text="" Canvas.Top="89" Width="392" TextChanged="TextBox_TextChanged"/>
+            <Label Name="Label" Content="Directory Path" Canvas.Left="13" Canvas.Top="103" Width="117"/>
+            <Button Name="Button" Content="Submit" Canvas.Left="561" Canvas.Top="169" Width="111" Height="36" Click="Button_Click"/>
         </Canvas>
         <Grid Style="{StaticResource GridButtonsStyle}">
             <StackPanel Style="{StaticResource StackPanelButtonsStyle}"/>
         </Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="334,10,0,0" TextWrapping="Wrap" Text="Skeleton Extractor" VerticalAlignment="Top" Height="16" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Margin="563,10,0,0" TextWrapping="Wrap" Text="Skeleton Extractor" VerticalAlignment="Top" Height="16" Width="119"/>
+        <Button Name="BrowseButton" Content="Browse" HorizontalAlignment="Left" Margin="563,99,0,0" VerticalAlignment="Top" Width="105" Click="BrowseButton_Click" Height="34"/>
     </Grid>
 </Window>

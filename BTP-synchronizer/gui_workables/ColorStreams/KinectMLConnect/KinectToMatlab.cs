@@ -17,7 +17,7 @@ namespace KinectMLConnect
     public partial class KinectToMatlab : Form
     {
         #region Members
-
+        bool custom_check = true;
         int idx = 0;
         int idx1 = 0;
         int checkbox_;
@@ -395,15 +395,18 @@ namespace KinectMLConnect
                         if (colorFrame != null)
                         {
                             // change here
-                            if (checkbox_ == 1 && idx >= max_)
+                            if (checkbox_ == 1 && idx >= max_ && custom_check == true)
                             {
-                                arrayOfColorFrame[idx1++] = ToBitmap(colorFrame);idx++;
+                                Console.WriteLine("inside the loop " + idx.ToString());
+                                arrayOfColorFrame[idx1++] = ToBitmap(colorFrame); idx++;
                                 writeColorFrames();
+                                custom_check = false;
+                                Application.Exit();
                             }
                             // the fastest way to process the body index data is to directly access 
                             // the underlying buffer
-                            Console.WriteLine("I m here "+idx.ToString());
-                            //idx++;
+//                            Console.WriteLine("I m here "+idx.ToString());
+//                            idx++;
                             using (Microsoft.Kinect.KinectBuffer colorBuffer = colorFrame.LockRawImageBuffer())
                                 {
 
@@ -437,8 +440,8 @@ namespace KinectMLConnect
                                     if (checkbox_ == 1 && idx >= min_ && idx < max_)
                                     {
                                         arrayOfColorFrame[idx1++] = ToBitmap(colorFrame);
-                                        idx++;
                                     }
+                                        idx++;
 
                                     //change 1221 to total number of frames-1
                                     if (checkbox_ == 2 && frameCount == min_)
@@ -449,7 +452,7 @@ namespace KinectMLConnect
                                         System.IO.File.WriteAllText(path_ + @"\Color_Timings.txt", s);
                                     }
                                     this.timing[frameCount++] = colorFrame.RelativeTime.Milliseconds;
-                                    Console.WriteLine(frameCount);
+//                                    Console.WriteLine(frameCount);
                                 }
                             
                         }
@@ -560,7 +563,7 @@ namespace KinectMLConnect
             StartButton.Enabled = false;
             DepthRadio.Checked = true;
             Options.Visible = false;
-            submitButton.Visible = false;
+            browseButton.Visible = submitButton.Visible = false;
             label1.Visible = label2.Visible = label3.Visible = false;
             pathText.Visible = minText.Visible = maxText.Visible = false;
             depthImage.Checked = depthFrame.Checked = false;
@@ -657,7 +660,7 @@ namespace KinectMLConnect
             depthFrame.Visible = depthImage.Visible = false;
             label1.Visible = label2.Visible = label3.Visible = true;
             pathText.Visible = minText.Visible = maxText.Visible = true;
-            submitButton.Visible = true;
+            browseButton.Visible = submitButton.Visible = true;
             checkbox_ = 1;
         }
 
@@ -668,7 +671,7 @@ namespace KinectMLConnect
             label2.Text = "No of Frames";
             label1.Visible = label2.Visible = true;
             pathText.Visible = minText.Visible = true;
-            submitButton.Visible = true;
+            browseButton.Visible = submitButton.Visible = true;
             checkbox_ = 2;
         }
 
@@ -695,7 +698,20 @@ namespace KinectMLConnect
             StartButton.Enabled = true;
             label1.Visible = label2.Visible = label3.Visible = false;
             pathText.Visible = minText.Visible = maxText.Visible = false;
-            submitButton.Visible = false;
+            browseButton.Visible = submitButton.Visible = false;
+        }
+
+        private void pathText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void browseButton_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog folderbrowser = new System.Windows.Forms.FolderBrowserDialog();
+
+            folderbrowser.ShowDialog();
+            pathText.Text = folderbrowser.SelectedPath;
         }
 
     }

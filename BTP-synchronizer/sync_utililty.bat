@@ -18,4 +18,3 @@ IF %id%==1 (
 ) ELSE IF %id%==5 (
 	"C:\Program Files\MATLAB\R2012a\bin\matlab.exe" -nodisplay -nosplash -nodesktop -r run('%CD%\sync_to_mat.m')
 )
-pause

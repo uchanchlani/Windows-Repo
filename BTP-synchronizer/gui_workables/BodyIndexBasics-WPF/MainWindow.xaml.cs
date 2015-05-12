@@ -375,6 +375,7 @@ namespace Microsoft.Samples.Kinect.BodyIndexBasics
             dir_text.Visibility = System.Windows.Visibility.Hidden;
             min_text.Visibility = System.Windows.Visibility.Hidden;
             max_text.Visibility = System.Windows.Visibility.Hidden;
+            browseButton.Visibility = System.Windows.Visibility.Hidden;
         }
 
         private void TextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
@@ -389,6 +390,15 @@ namespace Microsoft.Samples.Kinect.BodyIndexBasics
 
         private void TextBox_TextChanged_2(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
+
+        }
+
+        private void browseButton_Click(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog folderbrowser = new System.Windows.Forms.FolderBrowserDialog();
+
+            folderbrowser.ShowDialog();
+            dir_text.Text = folderbrowser.SelectedPath;
 
         }
     }
